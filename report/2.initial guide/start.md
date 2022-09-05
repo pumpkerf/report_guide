@@ -1,0 +1,2 @@
+-  Template อยู่ใน Dropbox/Docs/report_templates_sth/
+-  ตั้งชื่อ project-ID , app_Name เอามาจาก slack

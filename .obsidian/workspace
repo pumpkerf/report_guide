@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "25cf20d6dd4156f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b0b6fd4d70c0eee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "proj pentest/tools/nessus.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2afdb1d3f1f6cb22",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8dab242b11188e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4eeb364256a93ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ebf4fc3df20274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "1eb17d678a70c299",
+    "type": "split",
+    "children": [
+      {
+        "id": "136de565c81fd734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bba4fbba5137210",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "proj pentest/tools/nessus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4b0b6fd4d70c0eee",
+  "lastOpenFiles": [
+    "mail/step เขียน Mail.md",
+    "mail/type/readiness/Untitled.md",
+    "mail/type/จบวัน/mail จบวัน initial.md",
+    "mail/type/ส่งเอกสาร/mail ส่ง bugtack.md",
+    "mail/type/เริ่มวัน/mail เริ่มวัน revisit.md",
+    "mail/type/เริ่มวัน/mail เริ่มวัน initial.md",
+    "synonyme.md",
+    "Untitled.md",
+    "ประโยคใช้บ่อย.md",
+    "mail/type/ส่งเอกสาร/mail ส่ง prelim.md"
+  ]
+}

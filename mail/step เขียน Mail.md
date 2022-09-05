@@ -1,0 +1,19 @@
+- [x] ดูที่ reply ก่อนหน้า
+- [x] [[reply all]]
+- [x] เลือก type  template
+- [x] attach file
+- [x] ส่ง password ใน slack
+- [x] to: copy from previous
+- [x] cc: copy from previous
+- [x] font  `tahoma 11`
+- [x] เช็คตัวหนา
+- [x] [[signature]] -> อย่าลืม
+- [ ] [[check mail]] <- เข้าไปเช็คอันนี้ต่อด้วย
+	- [ ] ถูก loop mail ใช่ไหม
+	- [ ] `to` ถุกคนไหม
+	- [ ] เช็คคำ
+	- [ ] เช็ควันที่
+	- [ ] เช็คเบอร์
+	- [ ] เช็อชื่อคนรับใน content
+- [x] ลบ `RE` ใน subject
+- [ ] [คำเท่](https://sth.atlassian.net/wiki/spaces/SP/pages/313327621#%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%AD-%E0%B9%86)
